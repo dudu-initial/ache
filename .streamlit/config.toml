@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#D50057"           # rosa (HotPink)
+backgroundColor = "#FFFFFF"        # branco
+secondaryBackgroundColor = "#FDF4F9" # fundo de caixas
+textColor = "#000000"              # preto
+font = "sans serif"
