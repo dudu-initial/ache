@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+streamlit
+pandas
+plotly
+openpyxl
+io
+bytesio
+=======
+streamlit
+pandas
+plotly
+openpyxl
+io
+bytesio
+>>>>>>> be4ce78 (requirements)
+re
